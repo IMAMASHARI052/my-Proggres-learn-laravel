@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
-class Post.phpSeeder extends Seeder
+class Post extends Seeder
 {
     /**
      * Run the database seeds.
